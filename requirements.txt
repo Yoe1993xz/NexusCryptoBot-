@@ -1,0 +1,5 @@
+python-telegram-bot==20.6
+staypresent[prod]
+requests
+python-dotenv==1.0.0
+sqlalchemy==2.0.23
